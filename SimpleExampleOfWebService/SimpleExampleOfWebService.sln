@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SimpleExampleOfWebService", "D:\PritiFolder\R&DFolder\SimpleExampleOfWebService\", "{9F4FF5DF-A0DB-4927-8BC1-259682BFC3CA}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		Debug.AspNetCompiler.VirtualPath = "/SimpleExampleOfWebService"
+		Debug.AspNetCompiler.PhysicalPath = "D:\PritiFolder\R&DFolder\SimpleExampleOfWebService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SimpleExampleOfWebService\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SimpleExampleOfWebService"
+		Release.AspNetCompiler.PhysicalPath = "D:\PritiFolder\R&DFolder\SimpleExampleOfWebService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SimpleExampleOfWebService\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2956"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F4FF5DF-A0DB-4927-8BC1-259682BFC3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4FF5DF-A0DB-4927-8BC1-259682BFC3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
